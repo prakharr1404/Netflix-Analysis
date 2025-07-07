@@ -1,7 +1,3 @@
-Here’s a professional and well-structured **README** file content for your **Netflix Analysis** project using Tableau, modeled after your Blinkit Analytics Dashboard format:
-
----
-
 # Netflix Analysis Dashboard using Tableau
 
 ---
